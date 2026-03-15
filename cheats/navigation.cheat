@@ -1,0 +1,7 @@
+% repo
+# main repo folder
+cd ~/repo/
+
+% repo, config
+# config folder
+cd ~/repo/config/
