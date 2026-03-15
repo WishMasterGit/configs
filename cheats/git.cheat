@@ -1,3 +1,7 @@
 % git, autopush
 # add, commit, push sequence
 git pull && git add . && git commit -m "<message>" && git push
+
+% git, autochangelog
+# add, commit, push sequence with changlog file
+git pull && git add . && git commit -F change_log.md && git push
