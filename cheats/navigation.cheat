@@ -5,3 +5,7 @@ cd ~/repo/
 % repo, config
 # config folder
 cd ~/repo/config/
+
+% repo, jupiter
+# goto jupiter
+cd ~/repo/astro/jupiter/
